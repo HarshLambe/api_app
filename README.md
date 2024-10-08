@@ -66,14 +66,17 @@ This project is a **MERN Stack** application that fetches transaction data from 
   ```
 
 ## Screenshots
-*This is the main interface of our project *
-![Screenshot 1](email/images/main.png) 
+**Pie Chart Displaying Unique Categories of Selected month**
+![Screenshot 1](images/pc.jpeg) 
 
-*Classified mail as Spam *
-![Screenshot 2](email/images/spam.png)
+**Bar Chart Displaying Price range and sold items of  Selected month**
+![Screenshot 2](images/bc.jpeg)
 
-*Classified mail as Real *
-![Screenshot 3](email/images/notspam.png)
+**Table Displaying Statistics of Selected month**
+![Screenshot 3](images/stat.jpeg)
+
+**Table Displaying Transactions of  Selected month**
+![Screenshot 3](images/tt.jpeg)
 
 
 ## Contributing
